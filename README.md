@@ -1,7 +1,9 @@
 # semantic-markup
 
-## Description
+## Assignment 1
+Refactor codebase for Horiseon's webpage.
 
+### Description of Work
 In this repository, codebase for an existing marketing agency webpage is refactored so that it is optimized for search engines. The refactoring improves the source code's long-term sustainability and meets accessibility standards. 
 
 It does so by the following the actions:
@@ -14,5 +16,9 @@ It does so by the following the actions:
 7. CSS selectors and properties are consolidated and organized to follow semantic structure.
 8. The CSS file is ameneded to include descriptive comments.
 
+### Browser Screenshot
 ![alt text](./assets/images/browser-screenshot.png)
+
+### Link to Page
+https://jooreea.github.io/semantic-markup/
 
