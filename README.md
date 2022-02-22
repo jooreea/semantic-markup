@@ -14,4 +14,5 @@ It does so by the following the actions:
 7. CSS selectors and properties are consolidated and organized to follow semantic structure.
 8. The CSS file is ameneded to include descriptive comments.
 
-![alt text](https://github.com/jooreea/semantic-markup/tree/assets/images/browser-screenshot.png?raw=true)
+![alt text](./assets/images/browser-screenshot.png)
+
